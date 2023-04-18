@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="UTF-8">
+  <title>FilmsGapsPlus - Mas información</title>
+  <link rel="icon" href="https://ia801609.us.archive.org/13/items/films-gaps-plus_202304/FilmsGapsPlus%20%281%29.png">
+   <style>
+		
+		body {
+			background-image: url("https://ia802607.us.archive.org/6/items/img-20230416-215340-1/__ia_thumb.jpg");
+			background-repeat: no-repeat;
+			background-size: cover;
+			font-family: Arial, sans-serif;
+			color: #fff;
+			padding: 21px 16px;
+			text-align: center;
+		}
+		
+		.toolbar {
+			background-color: rgba(0, 0, 0, 0.2);
+			color: #fff;
+			padding: 21px;
+			position: fixed;
+			top: 0;
+			left: 0;
+			right: 0;
+			display: flex;
+			align-items: center;
+			justify-content: space-between;
+			opacity: 1;
+			transition: opacity 0.5s;
+		}
+
+		.toolbar.hide {
+			opacity: 0;
+		}
+
+		.toolbar h1 {
+			font-size: 2em;
+			margin: 0;
+		}
+
+		h1 {
+			font-size: 1em;
+			margin-top: 16px;
+		}
+		
+h2 {
+			font-size: 2em;
+		}
+		
+h3 {
+			font-size: 2em;
+		}
+		
+h4 {
+			font-size: 1,2em;
+		}
+
+h5 {
+  font-size: 1.2em;
+  color: #BDBDBD;
+}
+
+		
+		p {
+			font-size: 1em;
+			margin-bottom: 0px;
+		}
+		
+		button {
+			background-image: linear-gradient(to right, #F78181, #FA5858);
+			color: #F8F8F8;
+			padding: 10px 20px;
+			border: none;
+			border-radius: 5px;
+			font-size: 1em;
+			cursor: pointer;
+			margin-bottom: 21px;
+		}
+		
+		  .boton {
+    display: inline-block;
+    padding: 12px 25px;
+    background: linear-gradient(to right, #F78181, #FA5858);
+    color: #fff;
+    font-size: 1em;
+    text-decoration: none;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+  }
+  
+    .boton2 {
+    display: inline-block;
+    padding: 0px 0px;
+    background: linear-gradient(to right, #00000000, #00000000);
+    color: #fff;
+    font-size: 15px;
+    text-decoration: none;
+    border-radius: 8px;
+    border: none;
+    cursor: pointer;
+  }
+
+		.button-container {
+			display: flex;
+			justify-content: flex-end;
+			width: 100%;
+		}
+
+		.button-container button {
+			margin-right: 0;
+		}
+
+		.font-small {
+			font-family: 'Netflix Sans', sans-serif;
+			font-size: 23px;
+			font-weight: normal;
+		}
+
+	.font-small2 {
+			font-family: 'Netflix Sans', sans-serif;
+			font-size: 16px;
+			font-weight: normal;
+		}
+
+.btn-info {
+  font-size: 21px;
+  font-family: 'Netflix Sans', sans-serif;
+  font-weight: normal;
+  cursor: pointer;
+}
+
+video {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    overflow: hidden;
+  }
+
+	</style>
+</head>
+<body>
+	<div class="toolbar">
+		<h1>FilmsGapsPlus</h1>
+          <div class="button-container">
+			<button onclick="window.location.href = 'https://slpa1se15.github.io/Films-Gaps-Plus';">Reiniciar</button></button>
+		</div>
+	</div>
+    
+    <br>
+<br>
+<br>
+<br>
+<br>
+
+    <img src="https://archive.org/download/4818377/4818377.png"
+    scaleType="centerCrop" layout_width="30" height="250" alt="Films Gaps Plus">
+    
+    <h2>Mantenimiento</h2>
+    
+    Lo sentimos, actualmente estamos en mantenimiento para mejorar nuestra plataforma y brindar una mejor experiencia a nuestros usuarios. Estamos trabajando arduamente para solucionar cualquier problema que pueda afectar la calidad de nuestros servicios. Agradecemos su paciencia y comprensión mientras realizamos estas mejoras. Por favor, vuelva a intentarlo más tarde.
+    </br>
+    <br>
+    <br>
+    
+    <button onclick="window.location.href = 'https://slpa1se15.github.io/Films-Gaps-Plus';">Reiniciar</button>
+    
+</body>
+</html>
